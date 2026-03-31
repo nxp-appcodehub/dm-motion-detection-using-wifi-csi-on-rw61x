@@ -1,0 +1,37 @@
+{
+  "version": 7,
+  "cmakeMinimumRequired": {
+    "major": 3
+  },
+  "configurePresets": [
+    {
+      "name": "Debug-env",
+      "displayName": "Debug-env",
+      "hidden": true,
+      "environment": {
+        "ARMGCC_DIR": "C:/Users/Chiranjiv.Kayastha/.mcuxpressotools/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi",
+        "SdkRootDirPath": "d:/NXP_Work/SDK_25_09_00_FRDM-RW612",
+        "POSTPROCESS_UTILITY": "C:/Users/Chiranjiv.Kayastha/.mcuxpressotools/mcux-fixelf-14.2.2/mcux-fixelf.exe",
+        "MCUX_VENV_PATH": "C:/Users/Chiranjiv.Kayastha/.mcuxpressotools/.venv_3_13/Scripts",
+        "PATH": "$env{MCUX_VENV_PATH}${pathListSep}$penv{PATH}",
+        "CMAKE_EXPORT_COMPILE_COMMANDS": "ON"
+      },
+      "cacheVariables": {}
+    },
+    {
+      "name": "Release-env",
+      "displayName": "Release-env",
+      "hidden": true,
+      "environment": {
+        "ARMGCC_DIR": "C:/Users/Chiranjiv.Kayastha/.mcuxpressotools/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi",
+        "SdkRootDirPath": "d:/NXP_Work/SDK_25_09_00_FRDM-RW612",
+        "POSTPROCESS_UTILITY": "C:/Users/Chiranjiv.Kayastha/.mcuxpressotools/mcux-fixelf-14.2.2/mcux-fixelf.exe",
+        "MCUX_VENV_PATH": "C:/Users/Chiranjiv.Kayastha/.mcuxpressotools/.venv_3_13/Scripts",
+        "PATH": "$env{MCUX_VENV_PATH}${pathListSep}$penv{PATH}",
+        "CMAKE_EXPORT_COMPILE_COMMANDS": "ON"
+      },
+      "cacheVariables": {}
+    }
+  ],
+  "buildPresets": []
+}

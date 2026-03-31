@@ -1,0 +1,3 @@
+ExitOnError 1
+loadfile c:\Users\Chiranjiv.Kayastha\Documents\test\dm-motion-detection-using-wifi-csi-on-rw61x\Debug\frdmrw612_wifi_sensing.hex
+qc

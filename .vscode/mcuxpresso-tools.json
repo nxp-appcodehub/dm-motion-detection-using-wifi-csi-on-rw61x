@@ -1,0 +1,15 @@
+{
+  "version": "25.3",
+  "toolchainPath": "C:\\Users\\Chiranjiv.Kayastha\\.mcuxpressotools\\arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi",
+  "linkedProjects": [],
+  "trustZoneType": "none",
+  "multicoreType": "none",
+  "projectType": "sdk-freestanding",
+  "sdk": {
+    "path": "d:\\NXP_Work\\SDK_25_09_00_FRDM-RW612",
+    "version": "25.09.00",
+    "boardId": "frdmrw612",
+    "deviceId": "RW612",
+    "coreId": "cm33_RW612"
+  }
+}
