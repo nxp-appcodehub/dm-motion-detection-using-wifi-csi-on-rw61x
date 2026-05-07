@@ -82,7 +82,7 @@ Connect the USB's type C from J10(MCU-LINK) to the computer as shown in the foll
 - Example will go into motion detection state once RW612 connects pre-configured AP successfully.
 - Place your hand over the FRDM-RW612 and move it moderately.
 - LCD screen will be lighted up if motion is detected and display a virtual keyboard.
-- Input right password "9876", and smile face will show up. Sad face will be displayed if wrong password entered.
+- Input right password "9876", and lock open will show up. Close lock will be displayed if wrong password entered.
 - LCD screen will turn off after 10s and start motion detection again.
 
 ## 5. FAQs<a name="step4"></a>
