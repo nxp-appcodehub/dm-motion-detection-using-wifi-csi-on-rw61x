@@ -22,7 +22,7 @@ This demo showcases the Ambient Sensing capabilities of the FRDM-RW612 using Cha
 ## 1. Software<a name="step1"></a>
 - [MCUXpresso 24.12.148 or newer.](https://nxp.com/mcuxpresso)
 - [MCUXpresso for VScode 1.5.61 or newer](https://www.nxp.com/products/processors-and-microcontrollers/arm-microcontrollers/general-purpose-mcus/lpc800-arm-cortex-m0-plus-/mcuxpresso-for-visual-studio-code:MCUXPRESSO-VSC?cid=wechat_iot_303216)
-- [SDK for FRDM-RW612](https://mcuxpresso.nxp.com/en/select)
+- [SDK v25.09.00 for FRDM-RW612](https://mcuxpresso.nxp.com/en/select)
 
 ## 2. Hardware<a name="step2"></a>
 - [FRDM-RW612](https://www.nxp.com/part/FRDM-RW612)
